@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Enemy
   - Skeleton
+  - Ground
+  - Heart
+  - Ammo
+  - Wake
+  - Key
+  - Lock
   layers:
   - Default
   - TransparentFX
@@ -15,8 +21,8 @@ TagManager:
   - UI
   - Ground
   - Enemy
-  - 
-  - 
+  - AttackPoint
+  - Player
   - 
   - 
   - 

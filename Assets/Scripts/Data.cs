@@ -10,8 +10,9 @@ public class Data : MonoBehaviour
     public float attackDamage = 0.4f;
     public float jumpForce = 7.5f;
     public float moveSpeed = 4.0f;
-    public float maxHealth = 3.0f;
+    public float maxHealth = 5.0f;
 
+    //setting singleton
     private void Awake()
     {
         if (S == null)
